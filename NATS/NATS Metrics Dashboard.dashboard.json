@@ -1,11 +1,11 @@
 {
-  "version": 5,
-  "dashboardId": "nats_monitoring_dashboard",
+  "version": 8,
+  "dashboardId": "7416770130606051328",
   "title": "NATS Messaging Dashboard",
   "description": "Complete production monitoring for NATS messaging: connections, messages, JetStream, clustering, and resources.",
   "role": "",
   "owner": "",
-  "created": "2024-01-01T00:00:00Z",
+  "created": "2026-01-13T09:16:34.959Z",
   "tabs": [
     {
       "tabId": "nats_overview",
@@ -77,8 +77,8 @@
           "layout": {
             "x": 0,
             "y": 0,
-            "w": 24,
-            "h": 7,
+            "w": 96,
+            "h": 14,
             "i": 1
           },
           "htmlContent": "",
@@ -148,10 +148,10 @@
             }
           ],
           "layout": {
-            "x": 24,
+            "x": 96,
             "y": 0,
-            "w": 24,
-            "h": 7,
+            "w": 96,
+            "h": 14,
             "i": 2
           },
           "htmlContent": "",
@@ -222,9 +222,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 9,
-            "w": 24,
-            "h": 7,
+            "y": 18,
+            "w": 96,
+            "h": 14,
             "i": 3
           },
           "htmlContent": "",
@@ -294,10 +294,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 9,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 18,
+            "w": 96,
+            "h": 14,
             "i": 4
           },
           "htmlContent": "",
@@ -368,9 +368,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 18,
-            "w": 24,
-            "h": 7,
+            "y": 36,
+            "w": 96,
+            "h": 14,
             "i": 5
           },
           "htmlContent": "",
@@ -440,10 +440,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 18,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 36,
+            "w": 96,
+            "h": 14,
             "i": 6
           },
           "htmlContent": "",
@@ -514,9 +514,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 7
           },
           "htmlContent": "",
@@ -586,10 +586,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 8
           },
           "htmlContent": "",
@@ -660,9 +660,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 36,
-            "w": 24,
-            "h": 9,
+            "y": 72,
+            "w": 96,
+            "h": 18,
             "i": 9
           },
           "htmlContent": "",
@@ -732,10 +732,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 36,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 72,
+            "w": 96,
+            "h": 14,
             "i": 10
           },
           "htmlContent": "",
@@ -813,8 +813,8 @@
           "layout": {
             "x": 0,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 1
           },
           "htmlContent": "",
@@ -884,10 +884,10 @@
             }
           ],
           "layout": {
-            "x": 24,
+            "x": 96,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 2
           },
           "htmlContent": "",
@@ -958,9 +958,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 9,
-            "w": 24,
-            "h": 9,
+            "y": 18,
+            "w": 96,
+            "h": 18,
             "i": 3
           },
           "htmlContent": "",
@@ -1030,10 +1030,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 9,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 18,
+            "w": 96,
+            "h": 18,
             "i": 4
           },
           "htmlContent": "",
@@ -1104,9 +1104,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 5
           },
           "htmlContent": "",
@@ -1176,10 +1176,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 6
           },
           "htmlContent": "",
@@ -1250,9 +1250,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 27,
-            "w": 24,
-            "h": 9,
+            "y": 54,
+            "w": 96,
+            "h": 18,
             "i": 7
           },
           "htmlContent": "",
@@ -1322,10 +1322,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 8
           },
           "htmlContent": "",
@@ -1403,8 +1403,8 @@
           "layout": {
             "x": 0,
             "y": 0,
-            "w": 24,
-            "h": 7,
+            "w": 96,
+            "h": 14,
             "i": 1
           },
           "htmlContent": "",
@@ -1474,10 +1474,10 @@
             }
           ],
           "layout": {
-            "x": 24,
+            "x": 96,
             "y": 0,
-            "w": 24,
-            "h": 7,
+            "w": 96,
+            "h": 14,
             "i": 2
           },
           "htmlContent": "",
@@ -1548,9 +1548,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 9,
-            "w": 24,
-            "h": 7,
+            "y": 18,
+            "w": 96,
+            "h": 14,
             "i": 3
           },
           "htmlContent": "",
@@ -1620,10 +1620,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 9,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 18,
+            "w": 96,
+            "h": 18,
             "i": 4
           },
           "htmlContent": "",
@@ -1694,9 +1694,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 18,
-            "w": 24,
-            "h": 7,
+            "y": 36,
+            "w": 96,
+            "h": 14,
             "i": 5
           },
           "htmlContent": "",
@@ -1766,10 +1766,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 18,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 36,
+            "w": 96,
+            "h": 14,
             "i": 6
           },
           "htmlContent": "",
@@ -1840,9 +1840,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 7
           },
           "htmlContent": "",
@@ -1975,10 +1975,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 27,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 54,
+            "w": 96,
+            "h": 18,
             "i": 8
           },
           "htmlContent": "",
@@ -2056,8 +2056,8 @@
           "layout": {
             "x": 0,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 1
           },
           "htmlContent": "",
@@ -2127,10 +2127,10 @@
             }
           ],
           "layout": {
-            "x": 24,
+            "x": 96,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 2
           },
           "htmlContent": "",
@@ -2201,9 +2201,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 9,
-            "w": 24,
-            "h": 7,
+            "y": 18,
+            "w": 96,
+            "h": 14,
             "i": 3
           },
           "htmlContent": "",
@@ -2273,10 +2273,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 9,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 18,
+            "w": 96,
+            "h": 14,
             "i": 4
           },
           "htmlContent": "",
@@ -2347,9 +2347,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 5
           },
           "htmlContent": "",
@@ -2419,10 +2419,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 6
           },
           "htmlContent": "",
@@ -2493,9 +2493,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 7
           },
           "htmlContent": "",
@@ -2565,10 +2565,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 8
           },
           "htmlContent": "",
@@ -2639,9 +2639,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 36,
-            "w": 24,
-            "h": 7,
+            "y": 72,
+            "w": 96,
+            "h": 14,
             "i": 9
           },
           "htmlContent": "",
@@ -2711,10 +2711,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 36,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 72,
+            "w": 96,
+            "h": 14,
             "i": 10
           },
           "htmlContent": "",
@@ -2792,8 +2792,8 @@
           "layout": {
             "x": 0,
             "y": 0,
-            "w": 24,
-            "h": 7,
+            "w": 96,
+            "h": 14,
             "i": 1
           },
           "htmlContent": "",
@@ -2863,10 +2863,10 @@
             }
           ],
           "layout": {
-            "x": 24,
+            "x": 96,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 2
           },
           "htmlContent": "",
@@ -2937,9 +2937,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 9,
-            "w": 24,
-            "h": 7,
+            "y": 18,
+            "w": 96,
+            "h": 14,
             "i": 3
           },
           "htmlContent": "",
@@ -3009,10 +3009,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 9,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 18,
+            "w": 96,
+            "h": 18,
             "i": 4
           },
           "htmlContent": "",
@@ -3083,9 +3083,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 5
           },
           "htmlContent": "",
@@ -3155,10 +3155,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 6
           },
           "htmlContent": "",
@@ -3229,9 +3229,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 27,
-            "w": 24,
-            "h": 9,
+            "y": 54,
+            "w": 96,
+            "h": 18,
             "i": 7
           },
           "htmlContent": "",
@@ -3301,10 +3301,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 8
           },
           "htmlContent": "",
@@ -3382,8 +3382,8 @@
           "layout": {
             "x": 0,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 1
           },
           "htmlContent": "",
@@ -3453,10 +3453,10 @@
             }
           ],
           "layout": {
-            "x": 24,
+            "x": 96,
             "y": 0,
-            "w": 24,
-            "h": 9,
+            "w": 96,
+            "h": 18,
             "i": 2
           },
           "htmlContent": "",
@@ -3527,9 +3527,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 9,
-            "w": 24,
-            "h": 9,
+            "y": 18,
+            "w": 96,
+            "h": 18,
             "i": 3
           },
           "htmlContent": "",
@@ -3599,10 +3599,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 9,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 18,
+            "w": 96,
+            "h": 18,
             "i": 4
           },
           "htmlContent": "",
@@ -3673,9 +3673,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 5
           },
           "htmlContent": "",
@@ -3745,10 +3745,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 18,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 36,
+            "w": 96,
+            "h": 18,
             "i": 6
           },
           "htmlContent": "",
@@ -3819,9 +3819,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 27,
-            "w": 24,
-            "h": 9,
+            "y": 54,
+            "w": 96,
+            "h": 18,
             "i": 7
           },
           "htmlContent": "",
@@ -3891,10 +3891,10 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 27,
-            "w": 24,
-            "h": 7,
+            "x": 96,
+            "y": 54,
+            "w": 96,
+            "h": 14,
             "i": 8
           },
           "htmlContent": "",
@@ -3965,9 +3965,9 @@
           ],
           "layout": {
             "x": 0,
-            "y": 36,
-            "w": 24,
-            "h": 7,
+            "y": 72,
+            "w": 96,
+            "h": 14,
             "i": 9
           },
           "htmlContent": "",
@@ -4058,11 +4058,1021 @@
             }
           ],
           "layout": {
-            "x": 24,
-            "y": 36,
-            "w": 24,
-            "h": 9,
+            "x": 96,
+            "y": 72,
+            "w": 96,
+            "h": 18,
             "i": 10
+          },
+          "htmlContent": "",
+          "markdownContent": ""
+        }
+      ]
+    },
+    {
+      "tabId": "streams_consumers",
+      "name": "Streams & Consumers",
+      "panels": [
+        {
+          "id": "Panel_SC001",
+          "type": "table",
+          "title": "Streams Overview - Message Count",
+          "description": "All JetStream streams sorted by message count (similar to 'nats stream ls').",
+          "config": {
+            "show_legends": false,
+            "legends_position": "bottom",
+            "unit": "short",
+            "decimals": 0,
+            "step_value": "0",
+            "top_results_others": false,
+            "axis_border_show": true,
+            "label_option": {
+              "rotate": 0
+            },
+            "show_symbol": false,
+            "line_interpolation": "smooth",
+            "legend_width": {
+              "unit": "px"
+            },
+            "legend_height": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_type": {
+              "type": "world"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "override_config": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false,
+            "mappings": [],
+            "trellis": {
+              "layout": null,
+              "num_of_columns": 1,
+              "group_by_y_axis": false
+            },
+            "show_gridlines": true,
+            "table_aggregations": [
+              "max"
+            ],
+            "promql_table_mode": "all",
+            "visible_columns": [
+              "stream_name",
+              "value"
+            ]
+          },
+          "queryType": "sql",
+          "queries": [
+            {
+              "query": "SELECT stream_name, value\nFROM (\n  SELECT\n    stream_name,\n    value,\n    ROW_NUMBER() OVER (\n      PARTITION BY stream_name\n      ORDER BY _timestamp DESC\n    ) AS rn\n  FROM jetstream_stream_total_messages\n  WHERE server_id IN ($server_id)\n) t\nWHERE rn = 1\nORDER BY value DESC;",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_stream_total_messages",
+                "stream_type": "metrics",
+                "x": [
+                  {
+                    "label": "stream_name",
+                    "alias": "stream_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "stream_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": false,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "value",
+                    "alias": "value",
+                    "column": "value",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "value",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": false,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  }
+                ],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}"
+              },
+              "joins": []
+            }
+          ],
+          "layout": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 28,
+            "i": 1
+          },
+          "htmlContent": "",
+          "markdownContent": "",
+          "customChartContent": " // To know more about ECharts , \n// visit: https://echarts.apache.org/examples/en/index.html \n// Example: https://echarts.apache.org/examples/en/editor.html?c=line-simple \n// Define your ECharts 'option' here. \n// 'data' variable is available for use and contains the response data from the search result and it is an array.\noption = {  \n \n};\n  "
+        },
+        {
+          "id": "Panel_SC002",
+          "type": "table",
+          "title": "Streams Overview - Size (Bytes)",
+          "description": "Stream sizes in bytes.",
+          "config": {
+            "show_legends": false,
+            "legends_position": "bottom",
+            "unit": "bytes",
+            "decimals": 0,
+            "top_results_others": false,
+            "axis_border_show": true,
+            "legend_width": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false
+          },
+          "queryType": "sql",
+          "queries": [
+            {
+              "query": "SELECT stream_name, value FROM ( SELECT stream_name, value, ROW_NUMBER() OVER ( PARTITION BY stream_name ORDER BY _timestamp DESC ) AS rn FROM jetstream_stream_total_messages WHERE server_id IN ($server_id) ) t WHERE rn = 1 ORDER BY value DESC;",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_stream_total_bytes",
+                "stream_type": "metrics",
+                "x": [
+                  {
+                    "label": "stream_name",
+                    "alias": "stream_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "stream_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "value",
+                    "alias": "value",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "value",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  }
+                ],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}",
+                "time_shift": []
+              },
+              "joins": []
+            }
+          ],
+          "layout": {
+            "x": 64,
+            "y": 0,
+            "w": 64,
+            "h": 28,
+            "i": 2
+          },
+          "htmlContent": "",
+          "markdownContent": "",
+          "customChartContent": " // To know more about ECharts , \n// visit: https://echarts.apache.org/examples/en/index.html \n// Example: https://echarts.apache.org/examples/en/editor.html?c=line-simple \n// Define your ECharts 'option' here. \n// 'data' variable is available for use and contains the response data from the search result and it is an array.\noption = {  \n \n};\n  "
+        },
+        {
+          "id": "Panel_SC005",
+          "type": "table",
+          "title": "Streams Overview - Consumer Count",
+          "description": "Number of consumers per stream.",
+          "config": {
+            "show_legends": false,
+            "legends_position": "bottom",
+            "unit": "short",
+            "decimals": 0,
+            "step_value": "0",
+            "top_results_others": false,
+            "axis_border_show": true,
+            "label_option": {
+              "rotate": 0
+            },
+            "show_symbol": false,
+            "line_interpolation": "smooth",
+            "legend_width": {
+              "unit": "px"
+            },
+            "legend_height": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_type": {
+              "type": "world"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "override_config": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false,
+            "mappings": [],
+            "color": {
+              "mode": "palette-classic-by-series",
+              "fixedColor": [],
+              "seriesBy": "last",
+              "colorBySeries": []
+            },
+            "trellis": {
+              "layout": null,
+              "num_of_columns": 1,
+              "group_by_y_axis": false
+            },
+            "show_gridlines": true
+          },
+          "queryType": "sql",
+          "queries": [
+            {
+              "query": "SELECT stream_name, value FROM ( SELECT stream_name, value, ROW_NUMBER() OVER ( PARTITION BY stream_name ORDER BY _timestamp DESC ) AS rn FROM jetstream_stream_consumer_count WHERE server_id IN ($server_id) ) t WHERE rn = 1 ORDER BY value DESC;",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_stream_consumer_count",
+                "stream_type": "metrics",
+                "x": [
+                  {
+                    "label": "stream_name",
+                    "alias": "stream_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "stream_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "value",
+                    "alias": "value",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "value",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  }
+                ],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}",
+                "time_shift": []
+              },
+              "joins": []
+            }
+          ],
+          "layout": {
+            "x": 128,
+            "y": 0,
+            "w": 64,
+            "h": 28,
+            "i": 5
+          },
+          "htmlContent": "",
+          "markdownContent": "",
+          "customChartContent": " // To know more about ECharts , \n// visit: https://echarts.apache.org/examples/en/index.html \n// Example: https://echarts.apache.org/examples/en/editor.html?c=line-simple \n// Define your ECharts 'option' here. \n// 'data' variable is available for use and contains the response data from the search result and it is an array.\noption = {  \n \n};\n  "
+        },
+        {
+          "id": "Panel_SC003",
+          "type": "bar",
+          "title": "Top Streams by Message Count",
+          "description": "Streams with the most messages stored.",
+          "config": {
+            "show_legends": true,
+            "legends_position": "bottom",
+            "unit": "short",
+            "decimals": 0,
+            "top_results_others": false,
+            "axis_border_show": true,
+            "legend_width": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false
+          },
+          "queryType": "promql",
+          "queries": [
+            {
+              "query": "topk(10, jetstream_stream_total_messages{server_id=~\"$server_id\"})",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_stream_total_messages",
+                "stream_type": "metrics",
+                "x": [],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}"
+              }
+            }
+          ],
+          "layout": {
+            "x": 0,
+            "y": 28,
+            "w": 96,
+            "h": 20,
+            "i": 3
+          },
+          "htmlContent": "",
+          "markdownContent": ""
+        },
+        {
+          "id": "Panel_SC004",
+          "type": "bar",
+          "title": "Streams with Consumers",
+          "description": "Consumer count by stream (only streams with consumers).",
+          "config": {
+            "show_legends": true,
+            "legends_position": "bottom",
+            "unit": "short",
+            "decimals": 0,
+            "top_results_others": false,
+            "axis_border_show": true,
+            "legend_width": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false
+          },
+          "queryType": "promql",
+          "queries": [
+            {
+              "query": "jetstream_stream_consumer_count{server_id=~\"$server_id\"} > 0",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_stream_consumer_count",
+                "stream_type": "metrics",
+                "x": [],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}"
+              }
+            }
+          ],
+          "layout": {
+            "x": 96,
+            "y": 28,
+            "w": 96,
+            "h": 20,
+            "i": 4
+          },
+          "htmlContent": "",
+          "markdownContent": ""
+        },
+        {
+          "id": "Panel_SC006",
+          "type": "table",
+          "title": "Consumer Lag (Messages)",
+          "description": "Consumer lag per consumer - number of messages behind the stream. 0 = caught up.",
+          "config": {
+            "show_legends": false,
+            "legends_position": "bottom",
+            "unit": "short",
+            "decimals": 0,
+            "step_value": "0",
+            "top_results_others": false,
+            "axis_border_show": true,
+            "label_option": {
+              "rotate": 0
+            },
+            "show_symbol": false,
+            "line_interpolation": "smooth",
+            "legend_width": {
+              "unit": "px"
+            },
+            "legend_height": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_type": {
+              "type": "world"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "override_config": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false,
+            "mappings": [],
+            "color": {
+              "mode": "palette-classic-by-series",
+              "fixedColor": [],
+              "seriesBy": "last",
+              "colorBySeries": []
+            },
+            "trellis": {
+              "layout": null,
+              "num_of_columns": 1,
+              "group_by_y_axis": false
+            },
+            "show_gridlines": true
+          },
+          "queryType": "sql",
+          "queries": [
+            {
+              "query": "SELECT\n  stream_name,\n  consumer_name,\n  value,\n  CONCAT(stream_name, '_', consumer_name) AS stream_consumer\nFROM (\n  SELECT\n    stream_name,\n    consumer_name,\n    value,\n    ROW_NUMBER() OVER (\n      PARTITION BY stream_name, consumer_name\n      ORDER BY _timestamp DESC\n    ) AS rn\n  FROM jetstream_consumer_lag\n  WHERE server_id IN ($server_id)\n) t\nWHERE rn = 1\nORDER BY value DESC;",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_consumer_lag",
+                "stream_type": "metrics",
+                "x": [
+                  {
+                    "label": "stream_name",
+                    "alias": "stream_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "stream_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "consumer_name",
+                    "alias": "consumer_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "consumer_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "value",
+                    "alias": "value",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "value",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": true,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  }
+                ],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}/{consumer_name}",
+                "time_shift": []
+              },
+              "joins": []
+            }
+          ],
+          "layout": {
+            "x": 0,
+            "y": 48,
+            "w": 96,
+            "h": 24,
+            "i": 6
+          },
+          "htmlContent": "",
+          "markdownContent": "",
+          "customChartContent": " // To know more about ECharts , \n// visit: https://echarts.apache.org/examples/en/index.html \n// Example: https://echarts.apache.org/examples/en/editor.html?c=line-simple \n// Define your ECharts 'option' here. \n// 'data' variable is available for use and contains the response data from the search result and it is an array.\noption = {  \n \n};\n  "
+        },
+        {
+          "id": "Panel_SC007",
+          "type": "table",
+          "title": "Consumer Idle Time (Seconds)",
+          "description": "Seconds since last consumer activity. Lower is better - shows consumers are actively processing.",
+          "config": {
+            "show_legends": false,
+            "legends_position": "bottom",
+            "unit": "seconds",
+            "decimals": 1,
+            "step_value": "0",
+            "top_results_others": false,
+            "axis_border_show": true,
+            "label_option": {
+              "rotate": 0
+            },
+            "show_symbol": false,
+            "line_interpolation": "smooth",
+            "legend_width": {
+              "unit": "px"
+            },
+            "legend_height": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_type": {
+              "type": "world"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "override_config": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false,
+            "mappings": [],
+            "trellis": {
+              "layout": null,
+              "num_of_columns": 1,
+              "group_by_y_axis": false
+            },
+            "show_gridlines": true
+          },
+          "queryType": "sql",
+          "queries": [
+            {
+              "query": "SELECT\n  stream_name,\n  consumer_name,\n  value,\n  CONCAT(stream_name, '_', consumer_name) AS stream_consumer\nFROM (\n  SELECT\n    stream_name,\n    consumer_name,\n    value,\n    ROW_NUMBER() OVER (\n      PARTITION BY stream_name, consumer_name\n      ORDER BY _timestamp DESC\n    ) AS rn\n  FROM jetstream_consumer_idle_seconds\n  WHERE server_id IN ($server_id)\n) t\nWHERE rn = 1\nORDER BY value DESC",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_consumer_idle_seconds",
+                "stream_type": "metrics",
+                "x": [
+                  {
+                    "label": "stream_name",
+                    "alias": "stream_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "stream_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": false,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "consumer_name",
+                    "alias": "consumer_name",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "consumer_name",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": false,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  },
+                  {
+                    "label": "value",
+                    "alias": "value",
+                    "type": "build",
+                    "color": null,
+                    "args": [
+                      {
+                        "type": "field",
+                        "value": {
+                          "field": "value",
+                          "streamAlias": null
+                        }
+                      }
+                    ],
+                    "isDerived": false,
+                    "havingConditions": [],
+                    "treatAsNonTimestamp": true,
+                    "showFieldAsJson": false
+                  }
+                ],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name}/{consumer_name}"
+              },
+              "joins": []
+            }
+          ],
+          "layout": {
+            "x": 96,
+            "y": 48,
+            "w": 96,
+            "h": 24,
+            "i": 7
+          },
+          "htmlContent": "",
+          "markdownContent": "",
+          "customChartContent": " // To know more about ECharts , \n// visit: https://echarts.apache.org/examples/en/index.html \n// Example: https://echarts.apache.org/examples/en/editor.html?c=line-simple \n// Define your ECharts 'option' here. \n// 'data' variable is available for use and contains the response data from the search result and it is an array.\noption = {  \n \n};\n  "
+        },
+        {
+          "id": "Panel_SC008",
+          "type": "line",
+          "title": "Consumer Lag Over Time",
+          "description": "Track consumer lag trends - spikes indicate consumers falling behind.",
+          "config": {
+            "show_legends": true,
+            "legends_position": "bottom",
+            "unit": "short",
+            "decimals": 0,
+            "top_results_others": false,
+            "axis_border_show": true,
+            "legend_width": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false
+          },
+          "queryType": "promql",
+          "queries": [
+            {
+              "query": "jetstream_consumer_lag{server_id=~\"$server_id\"}",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_consumer_lag",
+                "stream_type": "metrics",
+                "x": [],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name} - {consumer_name}"
+              }
+            }
+          ],
+          "layout": {
+            "x": 0,
+            "y": 72,
+            "w": 96,
+            "h": 20,
+            "i": 8
+          },
+          "htmlContent": "",
+          "markdownContent": ""
+        },
+        {
+          "id": "Panel_SC009",
+          "type": "line",
+          "title": "Consumer Idle Time Over Time",
+          "description": "Track consumer activity - spikes indicate periods of inactivity.",
+          "config": {
+            "show_legends": true,
+            "legends_position": "bottom",
+            "unit": "s",
+            "decimals": 1,
+            "top_results_others": false,
+            "axis_border_show": true,
+            "legend_width": {
+              "unit": "px"
+            },
+            "base_map": {
+              "type": "osm"
+            },
+            "map_view": {
+              "zoom": 1,
+              "lat": 0,
+              "lng": 0
+            },
+            "map_symbol_style": {
+              "size": "by Value",
+              "size_by_value": {
+                "min": 1,
+                "max": 100
+              },
+              "size_fixed": 2
+            },
+            "drilldown": [],
+            "mark_line": [],
+            "connect_nulls": false,
+            "no_value_replacement": "",
+            "wrap_table_cells": false,
+            "table_transpose": false,
+            "table_dynamic_columns": false
+          },
+          "queryType": "promql",
+          "queries": [
+            {
+              "query": "jetstream_consumer_idle_seconds{server_id=~\"$server_id\"}",
+              "vrlFunctionQuery": "",
+              "customQuery": true,
+              "fields": {
+                "stream": "jetstream_consumer_idle_seconds",
+                "stream_type": "metrics",
+                "x": [],
+                "y": [],
+                "z": [],
+                "breakdown": [],
+                "filter": {
+                  "filterType": "group",
+                  "logicalOperator": "AND",
+                  "conditions": []
+                }
+              },
+              "config": {
+                "promql_legend": "{stream_name} - {consumer_name}"
+              }
+            }
+          ],
+          "layout": {
+            "x": 96,
+            "y": 72,
+            "w": 96,
+            "h": 20,
+            "i": 9
           },
           "htmlContent": "",
           "markdownContent": ""
