@@ -31,7 +31,7 @@
           "queryType": "promql",
           "queries": [
             {
-              "query": "k8s_deployment_available{k8s_namespace_name=\"$k8s_namespace_name\"}",
+              "query": "k8s_deployment_available{k8s_cluster=~\"$k8s_cluster_name\",k8s_namespace_name=\"$k8s_namespace_name\"}",
               "vrlFunctionQuery": null,
               "customQuery": true,
               "fields": {
@@ -85,7 +85,7 @@
           "queryType": "promql",
           "queries": [
             {
-              "query": "k8s_statefulset_current_pods{k8s_namespace_name=\"$k8s_namespace_name\"}",
+              "query": "k8s_statefulset_current_pods{k8s_cluster=~\"$k8s_cluster_name\",k8s_namespace_name=\"$k8s_namespace_name\"}",
               "vrlFunctionQuery": null,
               "customQuery": true,
               "fields": {
@@ -139,7 +139,7 @@
           "queryType": "promql",
           "queries": [
             {
-              "query": "k8s_daemonset_current_scheduled_nodes{k8s_namespace_name=\"$k8s_namespace_name\"}",
+              "query": "k8s_daemonset_current_scheduled_nodes{k8s_cluster=~\"$k8s_cluster_name\",k8s_namespace_name=\"$k8s_namespace_name\"}",
               "vrlFunctionQuery": null,
               "customQuery": true,
               "fields": {
@@ -193,7 +193,7 @@
           "queryType": "promql",
           "queries": [
             {
-              "query": "k8s_cronjob_active_jobs{k8s_namespace_name=\"$k8s_namespace_name\"}",
+              "query": "k8s_cronjob_active_jobs{k8s_cluster=~\"$k8s_cluster_name\",k8s_namespace_name=\"$k8s_namespace_name\"}",
               "vrlFunctionQuery": null,
               "customQuery": true,
               "fields": {
@@ -234,13 +234,39 @@
     "list": [
       {
         "type": "query_values",
+        "name": "k8s_cluster_name",
+        "label": "Cluster",
+        "query_data": {
+          "stream_type": "metrics",
+          "stream": "k8s_pod_cpu_usage",
+          "field": "k8s_cluster",
+          "max_record_size": 1000,
+          "filter": []
+        },
+        "value": "",
+        "options": [],
+        "multiSelect": false,
+        "hideOnDashboard": false,
+        "selectAllValueForMultiSelect": "",
+        "customMultiSelectValue": [],
+        "escapeSingleQuotes": false
+      },
+      {
+        "type": "query_values",
         "name": "k8s_namespace_name",
-        "label": "",
+        "label": "Namespace",
         "query_data": {
           "stream_type": "metrics",
           "stream": "k8s_pod_cpu_usage",
           "field": "k8s_namespace_name",
-          "max_record_size": 100
+          "max_record_size": 100,
+          "filter": [
+            {
+              "name": "k8s_cluster",
+              "operator": "=",
+              "value": "$k8s_cluster_name"
+            }
+          ]
         },
         "value": "",
         "options": [],
